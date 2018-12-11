@@ -1,0 +1,13 @@
+#include<stdio.h>
+	
+void main()
+{
+int t,t1,t2,n,i;
+t1=1;t2=1;
+printf("Indique el orden del termino, debe ser mayor que 2");
+scanf("%d",&n);
+    //##codigo usuario##
+
+    //##codigo usuario##
+printf("El termino %d -esimo de la sucesion de fibonacci es %d ",n,t);
+}

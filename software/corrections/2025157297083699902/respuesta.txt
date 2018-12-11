@@ -1,0 +1,4 @@
+//##codigo usuario##
+i*=(i 1);
+
+//##codigo usuario##

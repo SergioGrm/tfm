@@ -1,0 +1,2 @@
+/* Soy la respuesta correcta */
+f = f * i;
